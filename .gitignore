@@ -1,0 +1,10 @@
+*.py[cod]
+*.tgz
+*.jpeg
+*.bat
+*.log
+*.log.*
+*.xlsx
+*~
+.*
+!.gitignore
